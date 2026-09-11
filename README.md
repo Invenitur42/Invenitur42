@@ -1,24 +1,26 @@
 # Nhur
 
-Full-stack developer. Mostly **Python** and **TypeScript**. I like shipping small complete apps — API, DB, auth, and a usable UI.
+Full-stack developer. Mostly **Python** and **TypeScript**. I also ship small tools that run in the browser with no backend.
 
 Open to full-stack roles.
 
-### Try demos
+### Standalone sites (no API keys)
 
-**[Live demos](https://invenitur42.github.io/portfolio-live-demos/)** — Project Manager, Finance, Doc Chat in the browser.
+- [Habit Ring](https://invenitur42.github.io/habit-ring/) — daily habits, streaks, calendar · [repo](https://github.com/Invenitur42/habit-ring)
+- [Split Nest](https://invenitur42.github.io/split-nest/) — shared bills and settle-up · [repo](https://github.com/Invenitur42/split-nest)
+- [Drill Deck](https://invenitur42.github.io/drill-deck/) — flashcards with spaced review · [repo](https://github.com/Invenitur42/drill-deck)
 
-### Projects
+### Other demos
 
-- [Nhurs-RAG-ai](https://github.com/Invenitur42/Nhurs-RAG-ai) — ask questions over your documents · [demo](https://invenitur42.github.io/portfolio-live-demos/rag/)
-- [project-manager-Pilot](https://github.com/Invenitur42/project-manager-Pilot) — boards and tasks · [demo](https://invenitur42.github.io/portfolio-live-demos/pm/)
-- [Finance_tool_pilot](https://github.com/Invenitur42/Finance_tool_pilot) — accounts and spending · [demo](https://invenitur42.github.io/portfolio-live-demos/finance/)
-- [HIQ_Aplication_assistant](https://github.com/Invenitur42/HIQ_Aplication_assistant) — applications + AI drafts
-- [Writing_n_Mail_ai](https://github.com/Invenitur42/Writing_n_Mail_ai) — rewrite / tone / email helpers
+[Project manager / finance / doc-chat previews](https://invenitur42.github.io/portfolio-live-demos/)
 
-### Stack
+### Full-stack repos
 
-FastAPI, SQLAlchemy, Postgres, JWT, Next.js, Tailwind, Docker. OpenAI when the feature needs it.
+- [Nhurs-RAG-ai](https://github.com/Invenitur42/Nhurs-RAG-ai)
+- [project-manager-Pilot](https://github.com/Invenitur42/project-manager-Pilot)
+- [Finance_tool_pilot](https://github.com/Invenitur42/Finance_tool_pilot)
+- [HIQ_Aplication_assistant](https://github.com/Invenitur42/HIQ_Aplication_assistant)
+- [Writing_n_Mail_ai](https://github.com/Invenitur42/Writing_n_Mail_ai)
 
 ### Contact
 
