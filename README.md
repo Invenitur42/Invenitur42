@@ -10,13 +10,9 @@ Open to full-stack roles.
 - [Split Nest](https://invenitur42.github.io/split-nest/) — shared bills and settle-up · [repo](https://github.com/Invenitur42/split-nest)
 - [Drill Deck](https://invenitur42.github.io/drill-deck/) — flashcards with spaced review · [repo](https://github.com/Invenitur42/drill-deck)
 
-### Other demos
-
-[Project manager / finance / doc-chat previews](https://invenitur42.github.io/portfolio-live-demos/)
-
 ### Full-stack repos
 
-- [Nhurs-RAG-ai](https://github.com/Invenitur42/Nhurs-RAG-ai)
+- [Curiodromia (Passion Project)](https://curiodromia-production.up.railway.app/)
 - [project-manager-Pilot](https://github.com/Invenitur42/project-manager-Pilot)
 - [Finance_tool_pilot](https://github.com/Invenitur42/Finance_tool_pilot)
 - [HIQ_Aplication_assistant](https://github.com/Invenitur42/HIQ_Aplication_assistant)
