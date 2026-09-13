@@ -1,6 +1,6 @@
 # Nhur
 
-Full-stack developer. Mostly **Python** and **TypeScript**. I also ship small tools that run in the browser with no backend.
+Full-stack developer. Mostly **Python** and **TypeScript**.
 
 Open to full-stack roles.
 
@@ -13,10 +13,7 @@ Open to full-stack roles.
 ### Full-stack repos
 
 - [Curiodromia (Passion Project)](https://curiodromia-production.up.railway.app/)
-- [project-manager-Pilot](https://github.com/Invenitur42/project-manager-Pilot)
-- [Finance_tool_pilot](https://github.com/Invenitur42/Finance_tool_pilot)
-- [HIQ_Aplication_assistant](https://github.com/Invenitur42/HIQ_Aplication_assistant)
-- [Writing_n_Mail_ai](https://github.com/Invenitur42/Writing_n_Mail_ai)
+- [Curiodromia Chatbot (In the works)]()
 
 ### Contact
 
