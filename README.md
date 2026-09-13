@@ -13,7 +13,7 @@ Open to full-stack roles.
 ### Full-stack repos
 
 - [Curiodromia (Passion Project)](https://curiodromia-production.up.railway.app/)
-- [Curiodromia Chatbot (In the works)]()
+- [Curiodromia Chatbot (In the works)](https://github.com/Invenitur42/athenaeum)
 
 ### Contact
 
