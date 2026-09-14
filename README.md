@@ -18,6 +18,5 @@ Open to full-stack roles.
 ### Contact
 
 WhatsApp: +234 703 990 6242  
-GitHub: [Invenitur42](https://github.com/Invenitur42)
-
+GitHub: [Invenitur42](https://github.com/Invenitur42)  
 Linkedin: [Profile](https://www.linkedin.com/in/nurudeen-yusuf-72461623b/)
