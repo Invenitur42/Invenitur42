@@ -14,7 +14,7 @@ Open to full-stack roles.
 
 - [Curiodromia (Passion Project)](https://github.com/Invenitur42/Curiodromia)
 - [Curiodromia Chatbot (In the works)](https://github.com/Invenitur42/athenaeum)
-
+- [Curiodromia Real-Time Messenger]() - Next Project
 ### Contact
 
 WhatsApp: +234 703 990 6242  
