@@ -13,7 +13,7 @@ Open to full-stack roles.
 ### Full-stack repos
 
 - [Curiodromia (Passion Project)](https://github.com/Invenitur42/Curiodromia)
-- [Curiodromia Chatbot (In the works)](https://github.com/Invenitur42/athenaeum)
+- [Curiodromia Chatbot (In the works)](https://github.com/Invenitur42/Curiodromiai/tree/Curiodromiai)
 - [Curiodromia Real-Time Messenger]() - Next Project
 ### Contact
 
